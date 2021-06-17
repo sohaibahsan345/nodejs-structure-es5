@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-structure-es5",
+  "version": "1.0.0",
+  "description": "NodeJS Structure (ES5) with express.js for backend applications",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohaibahsan345/nodejs-structure-es5.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "javascript",
+    "backend"
+  ],
+  "author": "SOHAIB AHSAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sohaibahsan345/nodejs-structure-es5/issues"
+  },
+  "homepage": "https://github.com/sohaibahsan345/nodejs-structure-es5#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
